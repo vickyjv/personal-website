@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  color:#111d5e;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #111d5e;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #111d5e;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #111d5e;
+}
+
+hr{
+  border: dotted #111d5e 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+a{
+  color:#111d5e;
+  font-family:'Merriweather', serif;
+  margin:10px 20px;
+  text-decoration: none;
+  }
+a:hover{
+  color:#fff3e6;
+}
+
+
+.top-container {
+  background-color: #adeecf;
+  position: relative;
+  padding-top: 100px
+}
+.intro{width:30%;
+margin:auto;}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #adeecf;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.sub-certifications {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+  }
+.sub-personal-details {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.python-img{
+  width: 15%;
+  float:left;
+  margin-right:30px;
+}
+.C-img{
+  width: 15%;
+  float:left;
+  margin-right:30px;
+}
+.MO-img{
+  width: 15%;
+  float:left;
+  margin-right:30px;
+}
+.AUTOCAD-img{
+  width: 15%;
+  float:left;
+  margin-right:30px;
+}
+.copyright{
+  color:#111d5e;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+
+.Solidworks{
+  width: 15%;
+  float:left;
+  margin-right:30px;
+}
+.BUTTON_GOR {
+   background: #ADEECF;
+   background-image: -webkit-linear-gradient(top, #ADEECF, #13DC7C);
+   background-image: -moz-linear-gradient(top, #ADEECF, #13DC7C);
+   background-image: -ms-linear-gradient(top, #ADEECF, #13DC7C);
+   background-image: -o-linear-gradient(top, #ADEECF, #13DC7C);
+   background-image: -webkit-gradient(to bottom, #ADEECF, #13DC7C);
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   height: 14px;
+   line-height: 14px;
+   color: #111D5E;
+   font-family: 'Montserrat', sans-serif;
+   width: 200px;
+   font-size: 29px;
+   font-weight: 100;
+   padding: 13px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_GOR:hover {
+   border: solid #337FED 1px;
+   background: #ADEECF;
+   background-image: -webkit-linear-gradient(top, #ADEECF, #3D94F6);
+   background-image: -moz-linear-gradient(top, #ADEECF, #3D94F6);
+   background-image: -ms-linear-gradient(top, #ADEECF, #3D94F6);
+   background-image: -o-linear-gradient(top, #ADEECF, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #ADEECF, #3D94F6);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
